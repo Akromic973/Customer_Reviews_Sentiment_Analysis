@@ -1,7 +1,8 @@
 📊 Customer Reviews Sentiment Analysis
+
 📌 Overview
 
-  This project analyzes customer reviews using Natural Language Processing (NLP) and Machine Learning techniques to classify sentiments as Positive, Negative, or Neutral. The objective is to transform unstructured textual data into actionable insights that help businesses understand customer feedback and improve data-driven decision-making.
+  This project analyzes customer reviews using Natural Language Processing (NLP) and Machine Learning techniques to classify sentiments as Positive, Negative, or Neutral.      The objective is to transform unstructured textual data into actionable insights that help businesses understand customer feedback and improve data-driven decision-making.
 
 🎯 Business Objective
 
